@@ -33,7 +33,7 @@ Below are functions of browsers:
 
 * Networking: for network calls such as HTTP requests, using different implementations for different platform behind a platform-independent interface.
 
-![Alt text](Week-1/Assignment1/images/browers.png?raw=true "Browser Components")
+![Browser](https://github.com/pesto-students/p8-harshith-hmishra1996/blob/week1/Week-1/Assignment1/images/browers.png?raw=true "Browser Components")
 
 * UI backend: used for drawing basic widgets like combo boxes and windows. This backend exposes a generic interface that is not platform specific. Underneath it uses operating system user interface methods.
 
@@ -56,7 +56,7 @@ Below are functions of browsers:
 The output tree (the "parse tree") is a tree of DOM element and attribute nodes. DOM is short for Document Object Model. It is the object presentation of the HTML document and the interface of HTML elements to the outside world like JavaScript. The root of the tree is the "Document" object. 
 The DOM has an almost one-to-one relation to the markup.
 
-![Alt text](Week-1/Assignment1/images/parsers.png?raw=true "DOM Tree")
+![DOM Tree](https://github.com/pesto-students/p8-harshith-hmishra1996/blob/week1/Week-1/Assignment1/images/parsers.png?raw=true "DOM Tree")
 
 
 ## Script Processors
